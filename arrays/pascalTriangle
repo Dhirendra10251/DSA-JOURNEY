@@ -1,0 +1,21 @@
+class Solution {
+public:
+    vector<int> generateRows(int r){
+        int ans =1;
+        vector<int> row;
+        row.push_back(1);
+        for(int i = 1;i<r;i++){
+            ans *= (r-i);
+            ans/= i;
+            row.push_back(ans);
+        }
+        return row;
+    }
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>> pascalTriangle;
+        for(int i = 1;i<=numRows;i++){
+            pascalTriangle.push_back(generateRows(i));
+        }
+        return pascalTriangle;
+    }
+};
