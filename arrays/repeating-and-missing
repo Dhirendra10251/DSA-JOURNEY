@@ -1,0 +1,21 @@
+class Solution {
+  public:
+    vector<int> findTwoElement(vector<int>& arr) {
+        long long n = arr.size();
+        long long Sn = (long long)(n*(n+1))/2;
+        long long Sn2 = (long long)(n*(n+1)*(2*n+1))/6;
+        long  long Actualsum = 0;
+        long  long Actualsum2 = 0;
+        for(int i = 0;i<n;i++){
+            Actualsum += arr[i];
+            Actualsum2 += (long long)arr[i]*(long long)arr[i];
+        }
+        long long val1 = Actualsum - Sn; //x-y = val1
+        long long val2 = Actualsum2 - Sn2; // x^2 - y^2 = val2
+        val2 = val2 / val1; //x+y= val2 updated
+        
+        long long repeating = (val1+ val2)/2;
+        long long missing = val2 - repeating;
+        return {(int)repeating,(int)missing};
+    }
+};
