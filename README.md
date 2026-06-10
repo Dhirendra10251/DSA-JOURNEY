@@ -63,10 +63,10 @@ DSA-JOURNEY/
 |---|-------|--------|-------------|
 | 1 | **Arrays** | 🟢 In Progress | Merge Sorted Array, Merge Intervals, Spiral Matrix, Rotate Image, Pascal's Triangle II |
 | 2 | **Hashing / Prefix Sum** | 🟢 In Progress | Longest Subarray with Sum K |
-| 3 | **Mathematics** | 🟢 In Progress | Find Repeating & Missing Number |
-| 4 | **Linked Lists** | 🟡 Active Focus | Reverse LL, Middle of LL, Merge Two Sorted Lists |
-| 5 | **Stacks & Queues** | ⬜ Upcoming | — |
-| 6 | **Binary Search** | ⬜ Upcoming | — |
+| 3 | **Mathematics** | 🟢 In Progress | Find Repeating & Missing Number , Pow(x,n) |
+| 4 | **Binary Search** | 🟢 In Progress | search in  a rotated sorted array, Single element in a sorted array |
+| 5 | **Linked Lists** | 🟡 Active Focus | Reverse LL, Middle of LL, Merge Two Sorted Lists |
+| 6 | **Stacks & Queues** | ⬜ Upcoming | — |
 | 7 | **Recursion & Backtracking** | ⬜ Upcoming | — |
 | 8 | **Trees (BST, BT)** | ⬜ Upcoming | — |
 | 9 | **Graphs** | ⬜ Upcoming | — |
