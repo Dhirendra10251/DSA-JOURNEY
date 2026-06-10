@@ -90,22 +90,6 @@ DSA-JOURNEY/
 | **VS Code** | Local development & debugging |
 
 ---
-
-## 📊 Progress Snapshot
-
-```
-Arrays        ████████░░░░   ~60%
-Linked Lists  █████░░░░░░░   ~40%
-Hashing       ████░░░░░░░░   ~30%
-Maths         ███░░░░░░░░░   ~20%
-Stacks/Queues ░░░░░░░░░░░░   Upcoming
-Trees         ░░░░░░░░░░░░   Upcoming
-Graphs        ░░░░░░░░░░░░   Upcoming
-DP            ░░░░░░░░░░░░   Upcoming
-```
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
