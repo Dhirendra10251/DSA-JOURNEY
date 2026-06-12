@@ -95,7 +95,6 @@ DSA-JOURNEY/
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dhirendrakumarthakur.netlify.app-FF5733?style=for-the-badge&logo=netlify&logoColor=white)](https://dhirendrakumarthakur.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Dhirendra10251-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhirendra10251)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![X](https://img.shields.io/badge/X-@dhirendrakt18-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dhirendrakt18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
