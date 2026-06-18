@@ -65,13 +65,13 @@ DSA-JOURNEY/
 | 2 | **Hashing / Prefix Sum** | 🟢 In Progress | Longest Subarray with Sum K |
 | 3 | **Mathematics** | 🟢 In Progress | Find Repeating & Missing Number , Pow(x,n) |
 | 4 | **Binary Search** | 🟢 In Progress | search in  a rotated sorted array, Single element in a sorted array |
-| 5 | **Linked Lists** | 🟡 Active Focus | Reverse LL, Middle of LL, Merge Two Sorted Lists |
+| 5 | **Linked Lists** | 🟢 In Progress | Reverse LL, Middle of LL, Merge Two Sorted Lists |
 | 6 | **Stacks & Queues** | ⬜ Upcoming | — |
-| 7 | **Recursion & Backtracking** | ⬜ Upcoming | — |
+| 7 | **Recursion & Backtracking** | 🟡 Active Focus | — |
 | 8 | **Trees (BST, BT)** | ⬜ Upcoming | — |
 | 9 | **Graphs** | ⬜ Upcoming | — |
 | 10 | **Dynamic Programming** | ⬜ Upcoming | — |
-| 11 | **Greedy Algorithms** | ⬜ Upcoming | — |
+| 11 | **Greedy Algorithms** | 🟢 In Progress | — |
 | 12 | **Heaps** | ⬜ Upcoming | — |
 
 > 🟢 In Progress &nbsp;|&nbsp; 🟡 Active Focus &nbsp;|&nbsp; ⬜ Upcoming
