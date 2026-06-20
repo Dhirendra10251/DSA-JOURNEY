@@ -1,0 +1,36 @@
+class Solution {
+	private:
+	int helperfunc(int mid, int n, int m) {
+		long long ans = 1, base = mid;
+		while(n>0) {
+			if (n%2) {
+				ans *= base;
+				if (ans>m) return 2;
+				n--;
+			}
+			else{
+			    n/=2;
+			    base = base* base;
+			    if(base>m) return 2;
+			}
+		}
+		if(ans == m) return 1;
+		return 0;
+	}
+	public:
+	int nthRoot(int n, int m) {
+		int low = 0, high = m;
+		while(low<=high){
+		    int mid = low + (high-low)/2;
+		    int midN = helperfunc(mid,n,m);
+		    if(midN == 1) return mid;
+		    else if(midN == 0) {
+		        low =mid+1;
+		    }
+		    else{
+		        high = mid -1;
+		    }
+		}
+		return -1;
+	}
+};
